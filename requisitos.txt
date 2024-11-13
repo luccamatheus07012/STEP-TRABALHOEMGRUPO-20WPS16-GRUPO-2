@@ -1,0 +1,20 @@
+Requisitos:
+
+ Matheus através React
+-Lista de produtos
+-Valor do produto
+-Opção de adicionar produtos
+-Opção de alterar a quantidade de produtos
+ 
+
+ Pedro através do React
+-Botão de remover produtos
+-Imagem do produto
+-Soma do valor dos produtos
+-Botão de finalizar compra
+
+ Lucca através do CSS
+-Estilização dos botões
+-Cor de fundo
+-Personalizar fontes
+-Tamanho das imagens
